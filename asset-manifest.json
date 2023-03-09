@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lakshmijj/challenge/static/css/main.073c9b0a.css",
+    "main.js": "/lakshmijj/challenge/static/js/main.1618610f.js",
+    "static/js/787.007446f3.chunk.js": "/lakshmijj/challenge/static/js/787.007446f3.chunk.js",
+    "static/media/logo.svg": "/lakshmijj/challenge/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lakshmijj/challenge/index.html",
+    "main.073c9b0a.css.map": "/lakshmijj/challenge/static/css/main.073c9b0a.css.map",
+    "main.1618610f.js.map": "/lakshmijj/challenge/static/js/main.1618610f.js.map",
+    "787.007446f3.chunk.js.map": "/lakshmijj/challenge/static/js/787.007446f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1618610f.js"
+  ]
+}
